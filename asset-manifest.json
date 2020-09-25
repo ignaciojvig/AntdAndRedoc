@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AntdAndRedoc/static/css/main.5f361e03.chunk.css",
+    "main.js": "/AntdAndRedoc/static/js/main.e47db807.chunk.js",
+    "main.js.map": "/AntdAndRedoc/static/js/main.e47db807.chunk.js.map",
+    "runtime-main.js": "/AntdAndRedoc/static/js/runtime-main.56a434fb.js",
+    "runtime-main.js.map": "/AntdAndRedoc/static/js/runtime-main.56a434fb.js.map",
+    "static/js/2.b0b1d084.chunk.js": "/AntdAndRedoc/static/js/2.b0b1d084.chunk.js",
+    "static/js/2.b0b1d084.chunk.js.map": "/AntdAndRedoc/static/js/2.b0b1d084.chunk.js.map",
+    "index.html": "/AntdAndRedoc/index.html",
+    "precache-manifest.cb6581223fd6e2f76e5860dd6f80ff35.js": "/AntdAndRedoc/precache-manifest.cb6581223fd6e2f76e5860dd6f80ff35.js",
+    "service-worker.js": "/AntdAndRedoc/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/AntdAndRedoc/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b0b1d084.chunk.js.LICENSE.txt": "/AntdAndRedoc/static/js/2.b0b1d084.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AntdAndRedoc/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56a434fb.js",
+    "static/js/2.b0b1d084.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e47db807.chunk.js"
+  ]
+}
