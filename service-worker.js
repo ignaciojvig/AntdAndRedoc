@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AntdAndRedoc/precache-manifest.cb6581223fd6e2f76e5860dd6f80ff35.js"
+  "/AntdAndRedoc/precache-manifest.7e5d639d32e65627070534f479e52ffd.js"
 );
 
 self.addEventListener('message', (event) => {
