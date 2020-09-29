@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AntdAndRedoc/static/css/main.876c75dd.chunk.css",
-    "main.js": "/AntdAndRedoc/static/js/main.68d702ff.chunk.js",
-    "main.js.map": "/AntdAndRedoc/static/js/main.68d702ff.chunk.js.map",
+    "main.js": "/AntdAndRedoc/static/js/main.25a4e3cb.chunk.js",
+    "main.js.map": "/AntdAndRedoc/static/js/main.25a4e3cb.chunk.js.map",
     "runtime-main.js": "/AntdAndRedoc/static/js/runtime-main.56a434fb.js",
     "runtime-main.js.map": "/AntdAndRedoc/static/js/runtime-main.56a434fb.js.map",
     "static/css/2.cd846464.chunk.css": "/AntdAndRedoc/static/css/2.cd846464.chunk.css",
     "static/js/2.29fc786e.chunk.js": "/AntdAndRedoc/static/js/2.29fc786e.chunk.js",
     "static/js/2.29fc786e.chunk.js.map": "/AntdAndRedoc/static/js/2.29fc786e.chunk.js.map",
     "index.html": "/AntdAndRedoc/index.html",
-    "precache-manifest.7e5d639d32e65627070534f479e52ffd.js": "/AntdAndRedoc/precache-manifest.7e5d639d32e65627070534f479e52ffd.js",
+    "precache-manifest.e0f3c1d5691001e2f0b1464cc201182f.js": "/AntdAndRedoc/precache-manifest.e0f3c1d5691001e2f0b1464cc201182f.js",
     "service-worker.js": "/AntdAndRedoc/service-worker.js",
     "static/css/2.cd846464.chunk.css.map": "/AntdAndRedoc/static/css/2.cd846464.chunk.css.map",
     "static/css/main.876c75dd.chunk.css.map": "/AntdAndRedoc/static/css/main.876c75dd.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.cd846464.chunk.css",
     "static/js/2.29fc786e.chunk.js",
     "static/css/main.876c75dd.chunk.css",
-    "static/js/main.68d702ff.chunk.js"
+    "static/js/main.25a4e3cb.chunk.js"
   ]
 }

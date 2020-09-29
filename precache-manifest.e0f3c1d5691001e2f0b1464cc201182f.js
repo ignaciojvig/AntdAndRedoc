@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a335c0db5238bc72fe07ee8f1396019",
+    "revision": "a2dcdf69519a7a173e844c3be9d5e14e",
     "url": "/AntdAndRedoc/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AntdAndRedoc/static/css/2.cd846464.chunk.css"
   },
   {
-    "revision": "235e357103f0425c95a8",
+    "revision": "10daac174ce806b1c68e",
     "url": "/AntdAndRedoc/static/css/main.876c75dd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AntdAndRedoc/static/js/2.29fc786e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "235e357103f0425c95a8",
-    "url": "/AntdAndRedoc/static/js/main.68d702ff.chunk.js"
+    "revision": "10daac174ce806b1c68e",
+    "url": "/AntdAndRedoc/static/js/main.25a4e3cb.chunk.js"
   },
   {
     "revision": "913bea38647ebfd18bb6",
